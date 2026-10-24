@@ -4,5 +4,5 @@ import react from "@vitejs/plugin-react";
 // base "./" lets the build work on GitHub Pages under any repo name
 export default defineConfig({
   plugins: [react()],
-  base: "./",
+  base: '/LAB_EXPERIMENT_8/',
 });
